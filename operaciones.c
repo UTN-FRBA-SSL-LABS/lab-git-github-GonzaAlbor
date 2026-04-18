@@ -16,7 +16,8 @@ int restar(int a, int b) {
 
 int multiplicar(int a, int b) {
     
-    return a*b; 
+    return a*b; // Esta función devuelve la multiplicación de dos números enteros
+    
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
