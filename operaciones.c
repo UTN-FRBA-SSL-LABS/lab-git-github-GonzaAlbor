@@ -2,7 +2,7 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-int sumar(int a, int b) {
+int sumar(const int a, const int b) {
     return a + b;
 }
 
@@ -16,7 +16,7 @@ int restar(int a, int b) {
 
 int multiplicar(int a, int b) {
     
-    return a*b; // Esta función devuelve la multiplicación de dos números enteros
+    return a*b; // Esta función devuelve el producto de dos números enteros
     
 }
 
